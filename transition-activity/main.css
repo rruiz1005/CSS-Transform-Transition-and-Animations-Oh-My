@@ -3,6 +3,7 @@
 body  {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  margin: auto;
 }
 
 .caption {
@@ -12,7 +13,7 @@ body  {
 }
 
 img {
-  width: 80%;
+  width: 60%;
 }
 
 button {
